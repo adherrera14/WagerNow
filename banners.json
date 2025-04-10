@@ -1,0 +1,25 @@
+{
+    "banners": [
+        {
+            "image": "images/banners/banner1_bg.jpg",
+            "title": "Online Sportsbook",
+            "subtitle": "Bet Now!",
+            "link": "#",
+            "button_text": "Join Now"
+        },
+        {
+            "image": "images/banners/banner2_bg.jpg",
+            "title": "North Star Bet Sportsbook",
+            "subtitle": "Get 100% Bonus On First Deposit",
+            "link": "#",
+            "button_text": "Join Now"
+        },
+        {
+            "image": "images/banners/banner3_bg.jpg",
+            "title": "North Star Bet Casino",
+            "subtitle": "Get 50% Casino Reload Bonus",
+            "link": "#",
+            "button_text": "Join Now"
+        }
+    ]
+}
