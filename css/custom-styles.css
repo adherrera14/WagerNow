@@ -57,7 +57,6 @@
 .services-1:hover,
 .progress-bar,
 .progress-bar:after,
-.ftco-hireme,
 .project .overlay,
 .btn.btn-primary,
 .btn.btn-primary:hover,
@@ -74,7 +73,10 @@
 .btn.btn-primary {
     border: 1px solid #b5262b !important;
 }
-
+.ftco-hireme.img {
+    background-size: contain;
+    background-color: #000;
+}
 .btn.btn-primary:hover {
     background-color: #000 !important;
     color: #fff !important;
