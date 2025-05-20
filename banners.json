@@ -3,20 +3,20 @@
         {
             "image": "images/banners/banner1_bg.jpg",
             "title": "Online Sportsbook",
-            "subtitle": "Bet Now!",
+            "subtitle": "Join Now!",
             "link": "#",
             "button_text": "Join Now"
         },
         {
             "image": "images/banners/banner2_bg.jpg",
-            "title": "North Star",
+            "title": "WagerNow",
             "subtitle": "Get 100% Bonus",
             "link": "#",
             "button_text": "Join Now"
         },
         {
             "image": "images/banners/banner3_bg.jpg",
-            "title": "North Star Bet",
+            "title": "WagerNow",
             "subtitle": "50% Casino Bonus",
             "link": "#",
             "button_text": "Join Now"
