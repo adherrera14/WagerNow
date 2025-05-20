@@ -38,12 +38,12 @@
 .categories li a:focus,
 .sidelink li a:hover,
 .sidelink li a:focus {
-    color: #3877b6 !important;
+    color: #b5262b !important;
 }
 
 @media (max-width: 991.98px) {
     .ftco-navbar-light .navbar-nav>.nav-item.active>a {
-        color: #3877b6 !important;
+        color: #b5262b !important;
     }
 
     .ftco-navbar-light .navbar-toggler {
@@ -89,8 +89,8 @@
 }
 
 .btn.btn-primary.btn-outline-primary {
-    border: 2px solid #3877b6 !important;
-    color: #3877b6 !important;
+    border: 2px solid #b5262b !important;
+    color: #b5262b !important;
 }
 
 .btn.btn-primary.btn-outline-primary:hover {
@@ -98,7 +98,7 @@
 }
 
 .ftco-navbar-light.scrolled .nav-item.cta.cta-colored span {
-    border-color: #3877b6;
+    border-color: #b5262b;
 }
 
 .ftco-navbar-light .navbar-nav>.nav-item>.nav-link {
@@ -107,11 +107,11 @@
 }
 
 .ftco-navbar-light .navbar-nav>.nav-item>.nav-link span:before {
-    background: #3877b6;
+    background: #b5262b;
 }
 
 .services-1 .desc h3:after {
-    background: #3877b6;
+    background: #b5262b;
 }
 
 .ftco-footer {
@@ -151,7 +151,7 @@
 
 .banner-content h2 {
     font-size: 2.5em;
-    color: #3877b6;
+    color: #b5262b;
     font-weight: 500;
 }
 
@@ -161,11 +161,11 @@
 
 .swiper-button-next,
 .swiper-button-prev {
-    color: #3877b6 !important;
+    color: #b5262b !important;
 }
 
 .swiper-pagination-bullet-active {
-    background: #3877b6 !important;
+    background: #b5262b !important;
 }
 .contact-section .box {
     background: rgba(255,255,255,0.05);
@@ -227,7 +227,7 @@
 
 #about-section,
 #projects-section {
-    background-color: #051e2d;
+    background-color: #2a0d0d;
 }
 
 
