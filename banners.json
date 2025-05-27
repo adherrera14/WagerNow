@@ -1,23 +1,16 @@
 {
     "banners": [
         {
-            "image": "images/banners/banner1_bg.jpg",
+            "image": "images/banners/banner_sports_bg.jpg",
             "title": "Online Sportsbook",
-            "subtitle": "Join Now!",
+            "subtitle": "100% Welcome Bonus",
             "link": "#",
             "button_text": "Join Now"
         },
         {
-            "image": "images/banners/banner2_bg.jpg",
-            "title": "WagerNow",
-            "subtitle": "Get 100% Bonus",
-            "link": "#",
-            "button_text": "Join Now"
-        },
-        {
-            "image": "images/banners/banner3_bg.jpg",
-            "title": "WagerNow",
-            "subtitle": "50% Casino Bonus",
+            "image": "images/banners/banner_casino_bg.jpg",
+            "title": "Online Casino",
+            "subtitle": "50% Reload Bonus",
             "link": "#",
             "button_text": "Join Now"
         }

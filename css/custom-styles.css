@@ -37,13 +37,14 @@
 .categories li a:hover,
 .categories li a:focus,
 .sidelink li a:hover,
-.sidelink li a:focus {
-    color: #b5262b !important;
+.sidelink li a:focus,
+.ftco-footer .ftco-footer-widget ul li a span{
+    color: #00e701 !important;
 }
 
 @media (max-width: 991.98px) {
     .ftco-navbar-light .navbar-nav>.nav-item.active>a {
-        color: #b5262b !important;
+        color: #00e701 !important;
     }
 
     .ftco-navbar-light .navbar-toggler {
@@ -64,7 +65,7 @@
 .btn.btn-white.btn-outline-white:hover,
 .bg-primary,
 .bg-primary {
-    background-color: #b5262b !important;
+    background-color: #003300 !important;
     color: #fff !important;
 }
 
@@ -72,7 +73,7 @@
 .ftco-navbar-light .navbar-nav>.nav-item.cta>a:hover,
 .owl-carousel.home-slider .slider-item .slider-text .btn-custom,
 .btn.btn-primary {
-    border: 1px solid #b5262b !important;
+    border: 1px solid #00e701 !important;
 }
 .ftco-hireme {
     padding: 15em 0 !important;
@@ -89,8 +90,8 @@
 }
 
 .btn.btn-primary.btn-outline-primary {
-    border: 2px solid #b5262b !important;
-    color: #b5262b !important;
+    border: 2px solid #00e701 !important;
+    color: #00e701 !important;
 }
 
 .btn.btn-primary.btn-outline-primary:hover {
@@ -98,7 +99,7 @@
 }
 
 .ftco-navbar-light.scrolled .nav-item.cta.cta-colored span {
-    border-color: #b5262b;
+    border-color: #00e701;
 }
 
 .ftco-navbar-light .navbar-nav>.nav-item>.nav-link {
@@ -107,11 +108,11 @@
 }
 
 .ftco-navbar-light .navbar-nav>.nav-item>.nav-link span:before {
-    background: #b5262b;
+    background: #00e701;
 }
 
 .services-1 .desc h3:after {
-    background: #b5262b;
+    background: #00e701;
 }
 
 .ftco-footer {
@@ -150,8 +151,8 @@
 }
 
 .banner-content h2 {
-    font-size: 2.5em;
-    color: #b5262b;
+    font-size: 3em;
+    color: #00e701;
     font-weight: 500;
 }
 
@@ -161,11 +162,11 @@
 
 .swiper-button-next,
 .swiper-button-prev {
-    color: #b5262b !important;
+    color: #00e701 !important;
 }
 
 .swiper-pagination-bullet-active {
-    background: #b5262b !important;
+    background: #00e701 !important;
 }
 .contact-section .box {
     background: rgba(255,255,255,0.05);
@@ -175,11 +176,10 @@
     display: inline-block;
     width: 1em;
     height: 1em;
-    background-image: url('https://simpleicons.org/icons/x.svg');
+    background-image: url('/images/x.svg');
     background-size: contain;
     background-repeat: no-repeat;
     vertical-align: middle;
-    filter: brightness(0) saturate(100%) invert(100%) opacity(0.6);
   }
   .icon img {
     height: 64px;
@@ -207,7 +207,9 @@
         padding: 8em 0 !important;
     }
 }
-
+.services-1:hover h3 {
+    color: #fff;
+}
 /** additional styles **/
 
 #loginBox {
@@ -227,7 +229,7 @@
 
 #about-section,
 #projects-section {
-    background-color: #2a0d0d;
+    background-color: #282828;
 }
 
 
